@@ -29,7 +29,6 @@ abstract class Expr {
     final Expr expression;
     }
 
-  static
   }
 
   // Other expressions...
